@@ -1,0 +1,9 @@
+For the test :
+
+just run the .sh with the name of the test
+
+ALL THE TEST ARE COMPILE WITH -Wall -Wextra -Werror -std=c++98
+
+If something is written before the "############## leaks test ####################" line, there is a problem (the max size difference is not a probleme)
+
+else there are no probleme, then the leaks are checked

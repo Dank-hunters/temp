@@ -1,0 +1,35 @@
+insert 5, 10, 15, 20 to stack_test
+
+Is my vector is empty ? 
+- 0
+
+test copy constructor 
+
+my vector :
+
+-20
+-15
+-10
+-5
+
+my copy stack : 
+
+-20
+-15
+-10
+-5
+
+size : 4
+
+test push for stack, adding 3 element 
+new size : 7
+
+
+###################    TESTING RELATIONAL OPERATOR    ###################
+
+Operator == : 0| Operator != : 1
+Operator <= : 1| Operator >= : 0
+Operator < :1| Operator > : 1
+
+
+

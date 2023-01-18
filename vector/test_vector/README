@@ -1,0 +1,8 @@
+For the test :
+
+just run the .sh with the name of the test
+
+ALL THE TEST ARE COMPILE WITH -Wall -Wextra -Werror -std=c++98
+
+if something is writting before the "############## leaks test ####################" line , there are some probleme in the vector
+else there are no probleme, then the leaks are checked
